@@ -4,7 +4,7 @@ Este projeto, parte do curso de Fundamentos de Python e Análise de Dados da Rep
 
 ## Principais Objetivos:
 - Contextualizar a presença de mulheres no Brasil, destacando aquelas que são mães.
-- Analisar a representatividade de mulheres nos curso de mestrado e doutorado brasileiros com base nos dados disponíveis.
+- Analisar a representatividade de mulheres nos cursos de mestrado e doutorado brasileiros com base nos dados disponíveis.
 - Argumentar sobre a necessidade de coleta de dados específicos sobre a maternidade na carreira acadêmica.
 
 ## Estrutura do Projeto:
