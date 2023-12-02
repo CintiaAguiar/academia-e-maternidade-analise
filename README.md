@@ -1,6 +1,6 @@
 # Análise Exploratória da Invisibilidade da Maternidade na Carreira Acadêmica
 
-Este projeto, parte do curso de Fundamentos de Python e Análise de Dados da Reprograma, busca lançar luz sobre a lacuna de informações relacionadas à maternidade na carreira acadêmica no Brasil. Utilizando dados do IBGE e da CAPES de 2021, exploro a interseção entre mulheres, mães e pesquisadoras (em nível de mestrado e doutorado) para evidenciar a importância de uma discussão mais aprofundada sobre essa temática.
+Este projeto, parte do curso de Fundamentos de Python e Análise de Dados da Reprograma, busca lançar luz sobre a lacuna de informações relacionadas à maternidade na carreira acadêmica no Brasil. Utilizando dados do IBGE de 2021, exploro a interseção entre mulheres, mães e pesquisadoras (em nível de mestrado e doutorado) para evidenciar a importância de uma discussão mais aprofundada sobre essa temática.
 
 ## Principais Objetivos:
 - Contextualizar a presença de mulheres no Brasil, destacando aquelas que são mães.
@@ -8,8 +8,8 @@ Este projeto, parte do curso de Fundamentos de Python e Análise de Dados da Rep
 - Argumentar sobre a necessidade de coleta de dados específicos sobre a maternidade na carreira acadêmica.
 
 ## Estrutura do Projeto:
-- **notebooks:** Contém o notebook Jupyter utilizado para análise dos dados do IBGE e da CAPES.
-- **dados:** Armazena o conjunto de dados do IBGE e da CAPES utilizado na análise.
+- **notebooks:** Contém o notebook Jupyter utilizado para análise dos dados do IBGE.
+- **dados:** Armazena o conjunto de dados do IBGE utilizado na análise.
 - **resultados:** Documenta conclusões e insights derivados da análise.
 - **visualizacoes:** Apresenta gráficos e visualizações para comunicar os resultados de maneira eficaz via Tableau.
 
