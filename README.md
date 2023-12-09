@@ -17,4 +17,4 @@ Embora dados específicos sobre a maternidade na carreira acadêmica sejam limit
 
 Sinta-se à vontade para explorar, contribuir ou fornecer feedback! Juntos, podemos promover uma compreensão mais abrangente das experiências de mulheres na academia.
 
-Para acessar nossa visualização dos dados via Tableau, clique aqui.
+Para acessar nossa visualização dos dados via Tableau, [clique aqui](https://public.tableau.com/views/AInvisibilidadedaMaternidadenaCarreiraAcadmica/Histria1?:language=pt-BR&:display_count=n&:origin=viz_share_link).
