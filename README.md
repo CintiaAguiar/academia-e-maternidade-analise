@@ -127,6 +127,8 @@ $ jupyter notebook analise_exploratoria.ipynb
 
 📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar clicando [AQUI](https://public.tableau.com/views/AInvisibilidadedaMaternidadenaCarreiraAcadmica/Histria1?:language=pt-BR&:display_count=n&:origin=viz_share_link).
 
+<br>
+<br>
 
 ## 🙏 Agradecimentos
 
