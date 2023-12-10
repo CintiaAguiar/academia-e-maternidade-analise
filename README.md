@@ -18,7 +18,12 @@ Sinta-se à vontade para explorar, contribuir ou fornecer feedback! Juntos, pode
 - [💻 Tecnologias e Dependências Utilizadas](#-Tecnologias-e-Dependências-Utilizadas)
 - [🔧 Visualização](#-Visualização)
 - [🛠️ Interface Gráfica](#-Interface-Gráfica)
+- [🙏 Agradecimentos](#-Agradecimentos)
 - [👩🏾‍💻 Autora](#-Autora)
+
+---
+
+**[🎯 Objetivo](#-Objetivo) | [🏗️ Arquitetura do Projeto](#-Arquitetura-do-Projeto) | [💻 Tecnologias e Dependências Utilizadas](#-Tecnologias-e-Dependências-Utilizadas) | [🔧 Visualização](#-Visualização) | [🛠️ Interface Gráfica](#-Interface-Gráfica) | [👩🏾‍💻 Autora](#-Autora)**
 
 <!--ts-->
 
@@ -125,9 +130,15 @@ $ jupyter notebook analise_exploratoria.ipynb
 📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar clicando [AQUI](https://public.tableau.com/views/AInvisibilidadedaMaternidadenaCarreiraAcadmica/Histria1?:language=pt-BR&:display_count=n&:origin=viz_share_link).
 
 
+## 🙏 Agradecimentos
+
+Agradeço a todos que contribuíram e apoiaram este projeto de alguma forma. Cada ajuda, feedback e suporte são imensamente valiosos.
+
 Este projeto é fruto da inspiração e orientação valiosa da Professora [Mariana Rezende](https://www.linkedin.com/in/mariana-vb-rezende/). Gostaria de expressar minha sincera gratidão a todas as incríveis professoras que iluminaram meu caminho durante este percurso, à líder técnica Mayhhara por sua orientação inestimável, e à Babi, mentora de diversidade, pelo suporte constante.
 
 Um agradecimento especial ao meu esposo, que esteve ao meu lado durante todo o processo, à Jani, nossa facilitadora excepcional, e à Ju, cujo acolhimento foi um farol nos momentos de caos e incerteza. Às amigas da On26, cujo apoio e colaboração transformaram este projeto em uma jornada significativa. Agradeço a todas as pessoas envolvidas, cada uma contribuindo de maneira única para a construção desse conhecimento enriquecedor. Este projeto é uma celebração da potência que surge quando mulheres se unem para criar, aprender e prosperar. 🚀
+
+Se você também contribuiu e não foi mencionado aqui, saiba que sua ajuda é igualmente apreciada. Obrigada a todos que fazem parte desta jornada!
 
 <br>
 <br>
