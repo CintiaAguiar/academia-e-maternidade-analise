@@ -23,8 +23,6 @@ Sinta-se à vontade para explorar, contribuir ou fornecer feedback! Juntos, pode
 
 ---
 
-**[🎯 Objetivo](#-Objetivo) | [🏗️ Arquitetura do Projeto](#-Arquitetura-do-Projeto) | [💻 Tecnologias e Dependências Utilizadas](#-Tecnologias-e-Dependências-Utilizadas) | [🔧 Visualização](#-Visualização) | [🛠️ Interface Gráfica](#-Interface-Gráfica) | [👩🏾‍💻 Autora](#-Autora)**
-
 <!--ts-->
 
 <br>
